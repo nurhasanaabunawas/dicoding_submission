@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Nur Hasana Abunawas</string>
+    <string name="my_email">a2082036@bangkit.academy</string>
+
+    <string name="academy_name">Nama Academy</string>
+    <string name="academy_rate">Rate Academy</string>
+    <string name="academy_detail">Detail Academy</string>
+    <string name="academy_overview">Deskripsi</string>
+
+    <string name="title_detail">Disusun oleh \nLevel \nTeknologi \nEstimasi \nWebsite \n \nModul </string>
+    <string name="content_overview">Content Overview</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
